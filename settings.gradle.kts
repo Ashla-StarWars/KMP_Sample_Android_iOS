@@ -1,4 +1,4 @@
-rootProject.name = "KotlinProject_Android_iOS"
+rootProject.name = "KMP_Android_iOS"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
